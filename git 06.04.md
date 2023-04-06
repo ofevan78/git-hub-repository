@@ -4,4 +4,5 @@
 * git add fail 
 * git commit -am "" сахронение репозитория 
 * git log журнал изменений 
-*  
+* git checkout возмжность перемеаться через версию 
+* git checkout master возврошает на главную ветку (версию) 
