@@ -9,4 +9,4 @@
 ## 2 работа с ветками 
 * git branch "Naem" добовление ветки 
 * git merge "Naem"слияние веток 
-
+*  git checkout -b "naem" созданеи и переход по веткам 
