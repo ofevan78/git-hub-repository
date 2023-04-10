@@ -10,3 +10,7 @@
 * git branch "Naem" добовление ветки 
 * git merge "Naem"слияние веток 
 * git checkout -b "naem" созданеи и переход по веткам 
+* git branch список веток 
+
+
+
