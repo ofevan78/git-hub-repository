@@ -29,5 +29,8 @@
 * git remote add origin "**сылка на удаленый репозиторий**"
 * git branch -M main
 * git push -u origin main
+### для переноса репозитория из хит хаба 
+* git pull переносит из удаленого репозитория 
+
 
 
