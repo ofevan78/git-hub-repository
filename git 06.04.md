@@ -21,9 +21,14 @@
 * echo "# название репозитория на гит хабе" >> README.md
 * git init
 * git add README.md
-* git commit -m "first commit"
+* git commit -
+
+m "first commit"
 * git branch -M main
-* git remote add origin "**сылка на репозиторий из гит хба**"
+* git remote add origin 
+
+
+"**сылка на репозиторий из гит хба**"
 * git push -u origin main 
 ## для переноса готового репозитория на гит хаб 
 * git remote add origin "**сылка на удаленый репозиторий**"
