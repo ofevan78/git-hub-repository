@@ -21,6 +21,9 @@
 * echo "# название репозитория на гит хабе" >> README.md
 * git init
 * git add README.md
+* git commit -
+* git branch -d удалить ветку (используется, если её изменения уже влиты в главную ветку)
+m "first commit"
 * git commit -m "first commit"
 * git branch -M main
 * git remote add origin "**сылка на репозиторий из гит хба**"
